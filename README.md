@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrElsewhere
 - 👀 I’m interested in ... Systems Programming
-- 🌱 I’m currently learning ... Rust, TypeScript, Javascript frameworks (vuejs, nestjs w/ TypeORM)
+- 🌱 I’m currently learning ... Rust, TypeScript, Javascript frameworks (vue, nest, etc.)
 - 💞️ I’m looking to collaborate on ... Anything and Everything. Really want to start finding some practical applications for the code I've been writing
 - 📫 How to reach me ... unreachable atm
 
